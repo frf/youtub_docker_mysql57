@@ -1,4 +1,4 @@
-## Docker Laravel
+## Docker Mysql
 
 Criando banco de dados com container docker (Mysql)
 
